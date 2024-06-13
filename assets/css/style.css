@@ -440,6 +440,8 @@ body {
 
 .img-about img {
     width: 100%;
+    border-radius: 30px;
+    
 }
 
 /* Estilos base para o ícone do chevron */
@@ -1156,4 +1158,3 @@ body {
     font-size: 1rem;
     text-align: center;
 }
-
