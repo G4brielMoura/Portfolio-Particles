@@ -1,7 +1,7 @@
 # GM Developer │ Portfolio
 
 # Imagem do Projeto
-![imagem do projeto](./assets/image/rm-dev-portfolio2.0.png "Link Bio GM Dev 2.0")
+![imagem do projeto](./assets/image/img-gm-git-hub.png)
 
 Este repositório contém o código-fonte do meu site pessoal de portfólio, a RM Developer. É uma vitrine digital onde apresento minhas habilidades e projetos como desenvolvedor web. O site demonstra minha abordagem ao desenvolvimento web, focando em design responsivo, interatividade e experiências de usuário otimizadas.
 
@@ -33,13 +33,3 @@ O site foi construído utilizando uma variedade de tecnologias e ferramentas mod
 - **Otimizado para SEO**: Meta tags e descrições cuidadosamente escolhidas para melhorar a visibilidade do site em motores de busca.
 - **Alto Desempenho**: O código foi otimizado para carregamento rápido e desempenho eficiente.
 
-## Contribuições e Contato
-
-Estou aberto a colaborações e feedback. Se você tiver sugestões ou quiser discutir possíveis projetos, por favor, entre em contato comigo:
-
-- **Site**: [RM Developer](https://www.rmdeveloper.com.br)
-- **Email**: [contato@rmdeveloper.com.br](mailto:contato@rmdeveloper.com.br)
-- **LinkedIn**: [Gabriel Moura](https://www.linkedin.com/in/ricardomouradev/)
-- **WhatsApp**: [(98)985638256](https://wa.me/5547992164395)
-
-Obrigado por visitar meu portfólio!

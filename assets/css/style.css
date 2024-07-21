@@ -550,6 +550,7 @@ body {
     flex-wrap: wrap;
     gap: 0.5rem;
     padding: 2rem 0rem;
+    
 }
 
 .card-tech {
@@ -560,12 +561,15 @@ body {
     justify-content: space-around;
     align-items: center;
     transition: transform 0.3s ease;
+    
 }
 
 .card-tech img {
     width: 50%;
     opacity: 1;
     transition: opacity 0.3s ease, filter 0.3s ease;
+    
+    
 }
 
 .card-tech:hover {
@@ -579,6 +583,7 @@ body {
 
 .card-tech:hover img[data-tech="html"] {
     filter: sepia(1) hue-rotate(-35deg) saturate(5);
+    
 }
 
 .card-tech:hover img[data-tech="css"] {
