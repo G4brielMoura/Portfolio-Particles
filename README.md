@@ -3,7 +3,7 @@
 # Imagem do Projeto
 ![imagem do projeto](./assets/image/img-gm-git-hub.png)
 
-Este repositório contém o código-fonte do meu site pessoal de portfólio, a RM Developer. É uma vitrine digital onde apresento minhas habilidades e projetos como desenvolvedor web. O site demonstra minha abordagem ao desenvolvimento web, focando em design responsivo, interatividade e experiências de usuário otimizadas.
+O site demonstra minha abordagem ao desenvolvimento web, focando em design responsivo, interatividade e experiências de usuário otimizadas.
 
 ## Tecnologias e Ferramentas
 
