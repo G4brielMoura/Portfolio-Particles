@@ -315,7 +315,7 @@ Este arquivo conteria media queries para ajustar o layout e os estilos para dife
 
 Você pode visualizar o projeto funcionando aqui:
 
-👉 [Clique para ver o projeto online](https://cakelovers.github.io/meu-site)
+👉 [https://portfolio-particles-sable.vercel.app/]
 
 ## 🤝 Contribuição
 
