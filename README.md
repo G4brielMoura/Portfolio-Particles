@@ -111,11 +111,11 @@ Você precisa de um navegador web para visualizar o projeto. Nenhum software adi
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/G4brielMoura/Portfolio-Particles.git]
+    git clone https://github.com/G4brielMoura/Portfolio-Particles.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd seu-repositorio-portfolio
+    cd portfolio-particles
     ```
 3.  **Abra o arquivo `index.html` em seu navegador web.** Você pode simplesmente clicar duas vezes no arquivo ou abri-lo através do menu de arquivos do seu navegador.
 
