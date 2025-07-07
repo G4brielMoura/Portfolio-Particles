@@ -305,17 +305,13 @@ O CSS define a apresentação visual, o layout e as animações.
     * Inclui `transform: translateY(-5px);` no hover para um efeito de elevação.
     * Efeitos de `filter` sofisticados no hover para ícones de tecnologia (`img[data-tech="..."]`), alterando sua cor para corresponder às cores típicas das marcas.
 
-#### `responsividade.css` (Não fornecido, mas assumido)
-
-Este arquivo conteria media queries para ajustar o layout e os estilos para diferentes tamanhos de tela (por exemplo, mobile, tablet, desktop). Com base no JavaScript para o menu mobile e na estrutura geral, fica claro que o design pretende ser responsivo. Pontos de interrupção típicos ajustariam tamanhos de fonte, layouts flexbox/grid e visibilidade de elementos.
-
 ---
 
 ### 🔗 Acesse o Projeto Online
 
 Você pode visualizar o projeto funcionando aqui:
 
-👉 [https://portfolio-particles-sable.vercel.app/]
+👉 https://portfolio-particles-sable.vercel.app/
 
 ## 🤝 Contribuição
 
@@ -340,7 +336,7 @@ Esse projeto está sob a licença [MIT](./LICENSE).
 
 ## 📞 Contato
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gabriel-moura-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
