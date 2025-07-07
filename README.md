@@ -4,7 +4,13 @@
 
 ## 🚀 Visão Geral do Projeto
 
-Bem-vindo ao repositório oficial do **Portfólio Pessoal de Gabriel Moura**, uma aplicação web dinâmica e responsiva projetada para exibir minhas habilidades, projetos e trajetória profissional como Desenvolvedor Web. Este portfólio foi construído com foco em padrões web modernos, experiência do usuário e apelo estético, visando proporcionar aos visitantes um entendimento abrangente das minhas capacidades.
+Bem-vindo ao repositório oficial do **Portfólio_Particles**, uma aplicação web dinâmica e responsiva projetada para exibir minhas habilidades, projetos e trajetória profissional como Desenvolvedor Web. Este portfólio foi construído com foco em padrões web modernos, experiência do usuário e apelo estético, visando proporcionar aos visitantes um entendimento abrangente das minhas capacidades.
+
+---
+
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+</p>
 
 ---
 
@@ -69,26 +75,27 @@ dispositivos.
 
 O projeto está organizado em uma estrutura de diretórios clara e lógica:
 
+```
 ├── assets/
 │   ├── css/
-│   │   ├── style.css             # Folha de estilo principal do projeto
-│   │   └── responsividade.css    # Estilos para design responsivo
-│   ├── image/
-│   │   └── favicon.ico           # Favicon do website
-│   ├── js/
-│   │   ├── changePagesAnimation.js # Lida com as animações de transição de página
-│   │   ├── headerAnimation.js    # Gerencia o estado fixo do cabeçalho ao rolar
-│   │   ├── loadingAnimation.js   # Controla a tela de carregamento inicial
-│   │   ├── menu.js               # Gerencia o menu de navegação mobile
-│   │   ├── particles.js          # Configuração e inicialização do particles.js
-│   │   └── textAnimation.js      # Lida com a animação de texto dinâmico (digitação)
-├── index.html                    # Página inicial
-├── about.html                    # Página Sobre Mim
-├── services.html                 # Página de Serviços oferecidos
-├── projects.html                 # Página de exibição de projetos
-├── contact.html                  # Página de Contato
-└── README.md                     # Arquivo README do projeto (este arquivo)
-
+│   │   ├── style.css              # Estilo principal
+│   │   └── responsivo.css         # Estilo responsivo
+│   ├── img/
+│   │   └── favicon.ico            # Ícone do site
+│   └── js/
+│       ├── animaPages.js          # Transição de páginas
+│       ├── animaHeader.js         # Cabeçalho fixo
+│       ├── animaLoading.js        # Tela de carregamento
+│       ├── menu.js                # Menu mobile
+│       ├── particles.js           # Partículas animadas
+│       └── textoAnimado.js        # Animação de digitação
+├── index.html                     # Início
+├── about.html                     # Sobre
+├── services.html                  # Serviços
+├── projects.html                  # Projetos
+├── contact.html                   # Contato
+└── README.md                      # Documentação do projeto
+```
 
 ---
 
@@ -104,7 +111,7 @@ Você precisa de um navegador web para visualizar o projeto. Nenhum software adi
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio-portfolio.git]
+    git clone [https://github.com/G4brielMoura/Portfolio-Particles.git]
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
@@ -304,6 +311,12 @@ Este arquivo conteria media queries para ajustar o layout e os estilos para dife
 
 ---
 
+### 🔗 Acesse o Projeto Online
+
+Você pode visualizar o projeto funcionando aqui:
+
+👉 [Clique para ver o projeto online](https://cakelovers.github.io/meu-site)
+
 ## 🤝 Contribuição
 
 Sinta-se à vontade para fazer um "fork" deste repositório, realizar alterações e enviar "pull requests". Todas as contribuições, sugestões ou melhorias são bem-vindas!
@@ -338,6 +351,8 @@ Esse projeto está sob a licença [MIT](./LICENSE).
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+---
 
 
 
